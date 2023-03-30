@@ -1,0 +1,22 @@
+{
+  "name": "gid_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dheena98/Assignment-2.git"
+  },
+  "keywords": [
+    "git_assign2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheena98/Assignment-2/issues"
+  },
+  "homepage": "https://github.com/Dheena98/Assignment-2#readme"
+}
